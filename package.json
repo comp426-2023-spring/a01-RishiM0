@@ -1,0 +1,31 @@
+{
+  "name": "first426webserver",
+  "version": "1.0.0",
+  "description": "first webserver for 426 assignment",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-RishiM0.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "fs",
+    "args",
+    "http"
+  ],
+  "author": "RishiM0",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-RishiM0/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-RishiM0#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
